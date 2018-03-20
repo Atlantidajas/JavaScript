@@ -1,0 +1,12 @@
+<!ELEMENT planetas (mercurio, venus, tierra, marte, jupiter, saturno, urano, nectuno, pluton)>
+<!ELEMENT mercurio (nombre, diametro)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT diametro (#PCDATA)>
+<!ELEMENT venus (#PCDATA)>
+<!ELEMENT tierra (#PCDATA)>
+<!ELEMENT marte (#PCDATA)>
+<!ELEMENT jupiter (#PCDATA)>
+<!ELEMENT saturno (#PCDATA)>
+<!ELEMENT urano (#PCDATA)>
+<!ELEMENT nectuno (#PCDATA)>
+<!ELEMENT pluton (#PCDATA)>

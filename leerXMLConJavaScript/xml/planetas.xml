@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE planetas SYSTEM "file:///C:/Users/Jorge/Desktop/dtd/planetas.dtd">
+<planetas>
+    <mercurio>Mercurio</mercurio>
+    <venus>Venus</venus>
+    <tierra>Tierra</tierra>
+    <marte>Marte</marte>
+    <jupiter>Jupiter</jupiter>
+    <saturno>Saturno</saturno>
+    <urano>Urano</urano>
+    <nectuno>Neptuno</nectuno>
+    <pluton>Pluton</pluton>
+  </planetas>
